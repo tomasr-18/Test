@@ -6,5 +6,3 @@ def hej(a):
 
 
 hej('hej')
-
-print('hejdå!')
