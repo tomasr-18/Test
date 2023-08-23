@@ -10,3 +10,5 @@ def hej(a):
 hej('namn baklänges')
 hej('hejdå')
 print('lägger till lite till')
+
+print('krockar det?')
