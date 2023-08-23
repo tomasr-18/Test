@@ -8,3 +8,4 @@ def hej(a):
 
 
 hej('namn baklänges')
+hej('hejdå')
