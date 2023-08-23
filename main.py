@@ -3,6 +3,8 @@ def hej(a):
         print('Hej!!')
     elif a == 'tja':
         print('TJA!!')
+    else:
+        print(a)
 
 
-hej('hej')
+hej('namn baklänges')
